@@ -1,14 +1,9 @@
 
 ### Hola！Soy **Andrea** 👋🏼😊
 
-**Jr. Full Stack Web Developer**, apasionada por el **Diseño Web**, el desarrollo **Front-end**  y diseño **UX/UI**. <br/>
-
-
-###
-
-- 😎 Actualmente estoy trabajando en mi portfolio.
-- 👩🏽‍💻 Aprendiendo y mejorando mis habilidades de desarrollo.
-- 🚀 Estoy buscando colaborar en cualquier proyecto donde pueda ganar mucha experiencia.
+**Jr. Full Stack Web Developer**, me encanta el **Diseño Web**.<br/>
+Actualmente formandome en el diseño **UX/UI**.<br/>
+Mi enfoque es tener un perfil más dirigido hacia el desarrollo **Front-end**.<br/>
 
 
 ### Lenguajes y herramientas 🛠💻 : 
@@ -22,10 +17,11 @@
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
+
 ###
 Me puedes contactar 📫 :
 
-- 🎨 Portfolio:
+- 🎨 Portfolio: Trabajando en él💪🏼
 - 💼 LinkedIn: [Andrea N. Sosa Molina](https://www.linkedin.com/in/andrea-sosamolina/)
 - 📧 Gmail: sosandrea95@gmail.com
 
