@@ -1,7 +1,7 @@
 
 ### Hola！Soy **Andrea** 👋🏼😊
 
-**Jr. Full Stack Web Developer** y me encanta el **Diseño Web**.<br/>
+**Jr. Full Stack Web Developer** entusiasta del **Diseño Web**.<br/>
 Actualmente formandome en diseño **UX/UI** y mejorando mi habilidades de **Desarrollo**.<br/>
 Enfocando mi perfil hacia el desarrollo **Front-end**.<br/>
 
