@@ -21,7 +21,7 @@ Enfocando mi perfil hacia el desarrollo **Front-end**.<br/>
 ###
 Me puedes contactar 📫 :
 
-- 🎨 Portfolio: Trabajando en él💪🏼
+- 🎨 Portfolio: [UX/UI](https://www.figma.com/proto/LFb1Uq4hPWWB2jxHqcw7WB/Portfolio?node-id=1%3A2)
 - 💼 LinkedIn: [Andrea N. Sosa Molina](https://www.linkedin.com/in/andrea-sosamolina/)
 - 📧 Gmail: sosandrea95@gmail.com
 
